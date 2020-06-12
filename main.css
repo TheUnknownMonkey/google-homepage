@@ -1,0 +1,50 @@
+
+.top-right-gmail {
+    position: fixed;
+    top: 10px;
+    left: 88%;
+    font-size: 13px;
+}
+.top-right-slike {
+    position: fixed;
+    top: 10px;
+    left: 91%;
+    font-size: 13px;
+}
+.top-right-squares {
+    position: fixed;
+    top: 20px;
+    left: 93%;
+    background-color: black;
+    height: 30px;
+    width: 30px;
+    }
+.top-right-prijava {
+position: fixed;
+top: 15px;
+left: 95%;
+background-color:blue;
+height: 35px;
+width: 70px;
+font-weight: bold;
+border-radius: 10%;
+color:white;
+}
+
+.google-img {
+
+    position: fixed;
+    top: 23%;
+    left: 43%;
+
+}
+
+.search-bar {
+
+    position: fixed;
+    top: 35%;
+    left: 38%;
+    width: 500px;
+    height:35px ;
+    
+}
